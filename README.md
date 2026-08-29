@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi, I'm Abdul Moiz 👋
 
-<!--
-**abdulmoizgandam-commits/abdulmoizgandam-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT student at MRIET, Hyderabad (Graduating 2026)
+🌱 Learning DevOps — Linux, Git, Docker, CI/CD, and cloud fundamentals
+💼 Looking for entry-level roles in cloud  and devops role, operations, and tech-adjacent fields in Hyderabad
+🗣️ Fluent in English, Hindi, and Telugu
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+`Linux` `Git & GitHub` `SSH` `CI/CD (GitHub Actions)` `Python (Flask)` `Prompt Engineering`
+
+---
+
+### 📌 Featured Project
+
+**[flask-ci-cd-demo](https://github.com/abdulmoizgandam-commits/flask-ci-cd-demo)**
+A Flask URL shortener API with an automated CI/CD pipeline using GitHub Actions — includes linting, automated tests, and a build pipeline that runs on every push.
+
+---
+
+### 📫 Reach me
+✉️ Abdulmoizgandam@gmail.com
