@@ -2,9 +2,7 @@
 
 🎓 B.Tech IT student at MRIET, Hyderabad (Graduating 2026)
 🌱 Learning DevOps — Linux, Git, Docker, CI/CD, and cloud fundamentals
-💼 Looking for entry-level roles in cloud  and devops role, operations, and tech-adjacent fields in Hyderabad
-🗣️ Fluent in English, Hindi, and Telugu
-
+💼 Looking for entry-level roles in cloud  and devops role, operations, and tech-adjacent fields.
 ---
 
 ### 🛠️ Skills
@@ -22,4 +20,3 @@ A Flask URL shortener API with an automated CI/CD pipeline using GitHub Actions 
 ### 📫 Reach me
 ✉️ Abdulmoizgandam@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/abdul-moiz-gandam-3b7978207)
-✉️ Abdulmoizgandam@gmail.com
