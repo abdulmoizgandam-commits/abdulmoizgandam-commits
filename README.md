@@ -21,3 +21,6 @@ A Flask URL shortener API with an automated CI/CD pipeline using GitHub Actions 
 
 ### 📫 Reach me
 ✉️ Abdulmoizgandam@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/abdul-moiz-gandam-3b7978207)
+I want to paste this
+✉️ Abdulmoizgandam@gmail.com
