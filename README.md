@@ -2,7 +2,7 @@
 
 🎓 B.Tech IT student at MRIET, Hyderabad (Graduating 2026)
 🌱 Learning DevOps — Linux, Git, Docker, CI/CD, and cloud fundamentals
-💼 Looking for entry-level roles in cloud  and devops role, operations, and tech-adjacent fields.
+💼 Looking for entry-level roles in cloud  and devops role.
 ---
 
 ### 🛠️ Skills
